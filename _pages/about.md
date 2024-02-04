@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mike Yang Jingxiang. I am studying at the School of International Studies, Peking University
+My name is Mike Yang Jingxiang. I am studying at the School of International Studies, Peking University.My personal research areas are Chinese politics, U.S.-China relations, and comparative politics.
